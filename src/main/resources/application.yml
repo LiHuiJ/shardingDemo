@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sharding_application
+  main:
+    allow-bean-definition-overriding: true
+  profiles:
+    active: dev
