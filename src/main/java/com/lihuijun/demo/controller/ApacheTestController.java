@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/test")
-public class TestController {
+public class ApacheTestController {
 
     @Autowired
     private UsAdminRepository UsAdminRepository;

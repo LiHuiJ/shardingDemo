@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "spring.database0",
+      "type": "com.lihuijun.demo.config.Database0Config",
+      "sourceType": "com.lihuijun.demo.config.Database0Config"
+    },
+    {
+      "name": "spring.database1",
+      "type": "com.lihuijun.demo.config.Database1Config",
+      "sourceType": "com.lihuijun.demo.config.Database1Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.database0.database-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database0Config"
+    },
+    {
+      "name": "spring.database0.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database0Config"
+    },
+    {
+      "name": "spring.database0.password",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database0Config"
+    },
+    {
+      "name": "spring.database0.url",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database0Config"
+    },
+    {
+      "name": "spring.database0.username",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database0Config"
+    },
+    {
+      "name": "spring.database1.database-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database1Config"
+    },
+    {
+      "name": "spring.database1.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database1Config"
+    },
+    {
+      "name": "spring.database1.password",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database1Config"
+    },
+    {
+      "name": "spring.database1.url",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database1Config"
+    },
+    {
+      "name": "spring.database1.username",
+      "type": "java.lang.String",
+      "sourceType": "com.lihuijun.demo.config.Database1Config"
+    }
+  ],
+  "hints": []
+}
